@@ -1,0 +1,14 @@
+# created by virtualenv automatically
+
+# Ignorar archivos de configuración local de Django
+*.pyc
+*.pyo
+*.log
+*.sqlite3
+
+# Ignorar directorios de configuración local de Django
+_pycache_/
+media/
+static/
+Lib/
+Scripts/
